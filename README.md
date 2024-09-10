@@ -2,7 +2,7 @@
 
 ## Sobre mim 🚀
 
-Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF. Estou focado em Flutter, NodeJS e Banco de dados ORACLE.
+Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF. Estou focado em Flutter, NodeJS, Banco de dados ORACLE.
 
 - 🌱 Atualmente estudando: **[https://github.com/Vinicius-Silveira/bkp-app-imobiliaria]**
 - 🔭 Trabalhando no projeto: **[https://github.com/Vinicius-Silveira/bkp-app-imobiliaria]**
@@ -18,6 +18,7 @@ Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Projeto(s) em destaque 💻
 
