@@ -23,7 +23,7 @@ Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF.
 
 ## Projeto(s) em destaque 💻
 
-### [TCC Imobiliária](https://github.com/Vinicius-Silveira/bkp-app-imobiliaria)
+### [TCC Imobiliária](https://github.com/Vinicius-Silveira/IMOBICEF)
 **TCC - IMOBICEF** desenvolvido com **Dart/Flutter**. Esse projeto será entregue ao Uni-FACEF como trabalho de conclusão de curso.
 
 ![Project 1 Screenshot](https://github.com/user-attachments/assets/1cead16c-d9a2-469e-8e11-7f1dce2dd5a6)
