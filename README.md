@@ -4,8 +4,8 @@
 
 Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF. Estou focado em Flutter, NodeJS e Banco de dados Oracle.
 
-- 🌱 Atualmente estudando: **[https://github.com/Vinicius-Silveira/bkp-app-imobiliaria]**
-- 🔭 Trabalhando no projeto: **[https://github.com/Vinicius-Silveira/bkp-app-imobiliaria]**
+- 🌱 Atualmente estudando: **[https://github.com/Vinicius-Silveira/IMOBICEF]**
+- 🔭 Trabalhando no projeto: **[https://github.com/Vinicius-Silveira/IMOBICEF]**
 - 🌍 Linguagens: **[Inglês Avançado | Conhecimento acadêmico das tecnologias e linguagens JavaScript ES6+, NodeJS, TypeScript, ReactJS e Flutter. Bancos de Dados/SGBD's Oracle, PostgreSQL, SQL Server e MongoDB.]**
 - :bulb: Certificado Oracle Academy "Programming with PL/SQL" 2022
 - 📫 Contato: **[https://linkedin.com/in/vinicius-silveira-alvino]**
