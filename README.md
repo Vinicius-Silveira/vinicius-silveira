@@ -4,11 +4,11 @@
 
 Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF. Estou focado em Flutter, NodeJS e Banco de dados Oracle.
 
-- 🌱 Atualmente estudando: **[https://github.com/Vinicius-Silveira/IMOBICEF]**
-- 🔭 Trabalhando no projeto: **[https://github.com/Vinicius-Silveira/IMOBICEF]**
-- 🌍 Linguagens: **[Inglês Avançado | Conhecimento acadêmico das tecnologias e linguagens JavaScript ES6+, NodeJS, TypeScript, ReactJS e Flutter. Bancos de Dados/SGBD's Oracle, PostgreSQL, SQL Server e MongoDB.]**
+- 🌱 Atualmente estudando: **Além de: https://github.com/Vinicius-Silveira/IMOBICEF, também estou estudando projetos pessoais em ReactJS, TypeScript e MongoDB.**
+- 🔭 Trabalhando no projeto: **https://github.com/Vinicius-Silveira/IMOBICEF**
+- 🌍 Linguagens: **Inglês Avançado | Conhecimento acadêmico das tecnologias e linguagens JavaScript ES6+, NodeJS, TypeScript, ReactJS e Flutter. Bancos de Dados/SGBD's Oracle, PostgreSQL, SQL Server e MongoDB.**
 - :bulb: Certificado Oracle Academy "Programming with PL/SQL" 2022
-- 📫 Contato: **[https://linkedin.com/in/vinicius-silveira-alvino]**
+- 📫 Contato: **https://linkedin.com/in/vinicius-silveira-alvino**
 
 ## Minhas Skills 🧠
 
@@ -23,7 +23,7 @@ Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF.
 
 ## Projeto(s) em destaque 💻
 
-### [TCC Imobiliária](https://github.com/Vinicius-Silveira/IMOBICEF)
+### TCC Imobiliária (https://github.com/Vinicius-Silveira/IMOBICEF)
 **TCC - IMOBICEF** desenvolvido com **Dart/Flutter**. Esse projeto será entregue ao Uni-FACEF como trabalho de conclusão de curso.
 
 ![Project 1 Screenshot](https://github.com/user-attachments/assets/1cead16c-d9a2-469e-8e11-7f1dce2dd5a6)
@@ -31,4 +31,4 @@ Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF.
 
 ## Contate-me 📬
 
-- **[LinkedIn]**(https://br.linkedin.com/in/vinicius-silveira-alvino)
+- **LinkedIn**(https://br.linkedin.com/in/vinicius-silveira-alvino)
