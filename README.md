@@ -2,7 +2,7 @@
 
 ## Sobre mim 🚀
 
-Atualmente estou cursando o 8º semestre em Engenharia de Software no Uni-FACEF. Estou focado em Flutter, NodeJS e Banco de dados Oracle.
+Formado em Engenharia de Software pelo Uni-FACEF. Estou focado em Flutter, NodeJS e Banco de dados Oracle.
 
 - 🌱 Atualmente estudando: **Além de: https://github.com/Vinicius-Silveira/IMOBICEF, também estou estudando projetos pessoais em ReactJS, TypeScript e MongoDB.**
 - 🔭 Trabalhando no projeto: **https://github.com/Vinicius-Silveira/IMOBICEF**
