@@ -2,11 +2,11 @@
 
 ## Sobre mim 🚀
 
-Formado em Engenharia de Software pelo Uni-FACEF. Estou focado em Flutter, NodeJS e Banco de dados Oracle.
+Formado em Engenharia de Software pelo Uni-FACEF. Estou focado em desenvolvimento mobile (Dart e Flutter) e desenvolvimento web (React.js, Next.js, Node.js, mongoose, MongoDB).
 
-- 🌱 Atualmente estudando: **Além de: https://github.com/Vinicius-Silveira/IMOBICEF, também estou estudando projetos pessoais em ReactJS, TypeScript e MongoDB.**
-- 🔭 Trabalhando no projeto: **https://github.com/Vinicius-Silveira/IMOBICEF**
-- 🌍 Linguagens: **Inglês Avançado | Conhecimento acadêmico das tecnologias e linguagens JavaScript ES6+, NodeJS, TypeScript, ReactJS e Flutter. Bancos de Dados/SGBD's Oracle, PostgreSQL, SQL Server e MongoDB.**
+- 🌱 Atualmente estudando: **Além de: https://github.com/Vinicius-Silveira/IMOBICEF, também estou estudando projetos pessoais.**
+- 🔭 Trabalhando no projeto: **App de gerenciamento de vendas, clientes e estoque de produtos**
+- 🌍 Linguagens: **Inglês Avançado | Conhecimento acadêmico das tecnologias e linguagens JavaScript, NodeJS, TypeScript, ReactJS e Flutter. Bancos de Dados/SGBD's Oracle, PostgreSQL, SQL Server e MongoDB.**
 - :bulb: Certificado Oracle Academy "Programming with PL/SQL" 2022
 - 📫 Contato: **https://linkedin.com/in/vinicius-silveira-alvino**
 
