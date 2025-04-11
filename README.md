@@ -24,7 +24,7 @@ Formado em Engenharia de Software pelo Uni-FACEF. Estou focado em desenvolviment
 ## Projeto(s) em destaque 💻
 
 ### TCC Imobiliária (https://github.com/Vinicius-Silveira/IMOBICEF)
-**TCC - IMOBICEF** desenvolvido com **Dart/Flutter**. Esse projeto será entregue ao Uni-FACEF como trabalho de conclusão de curso.
+**TCC - IMOBICEF** desenvolvido com **Dart/Flutter**. Esse projeto foi entregue ao Uni-FACEF como trabalho de conclusão de curso.
 
 ![Project 1 Screenshot](https://github.com/user-attachments/assets/1cead16c-d9a2-469e-8e11-7f1dce2dd5a6)
 
