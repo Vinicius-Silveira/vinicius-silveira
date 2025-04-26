@@ -35,7 +35,7 @@ Meu portfólio online: https://vinicius-silveira.vercel.app
 App sendo desenvolvido para auxiliar autônomos e pequenos empreendimentos.O propósito é facilitar o registro de vendas, gerenciar o estoque de produtos e oferecer relatórios.
 Mais novidades em breve!
 
-![print-telas-app-meu-negocio](https://github.com/user-attachments/assets/e0f00400-ba36-4e55-b951-066acf6ee889)
+![print-telas-app-meu-negocio](https://github.com/user-attachments/assets/7a898622-5632-4f64-8313-b1106a766648)
 
 ## Contate-me 📬
 
