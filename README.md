@@ -22,7 +22,7 @@ Meu portfólio online: https://vinicius-silveira.vercel.app
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Silveira&exclude_repo=github-readme-stats,Vinicius-Silveira.FunnyLittleZombies)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Silveira&hide=ShaderLab,C++,HLSL)
 
 ## Projeto(s) em destaque 💻
 
