@@ -2,7 +2,7 @@
 
 ## Sobre mim 🚀
 
-Formado em Engenharia de Software pelo Uni-FACEF. Estou focado em desenvolvimento mobile (Dart e Flutter) e desenvolvimento web (React.js, Next.js, Node.js, mongoose, MongoDB).
+Estou focado em desenvolvimento mobile (Dart e Flutter) e desenvolvimento web (React.js, Next.js, Node.js, mongoose, Express.js e MongoDB).
 Meu portfólio online: https://vinicius-silveira.vercel.app
 
 - 🌱 Atualmente estudando: **Além de: https://github.com/Vinicius-Silveira/IMOBICEF, também estou estudando projetos pessoais.**
