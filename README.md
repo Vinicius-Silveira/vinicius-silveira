@@ -28,8 +28,9 @@ Meu portfólio online: https://vinicius-silveira.vercel.app
 
 ### O MiniGestor está na Play Store!
 App desenvolvido por mim, focado em gerenciar o estoque e a validade de produtos para autônomos e pequenos negócios.
-Visite a página do app:
-![Screenshot Google Play Store](https://github.com/user-attachments/assets/448bd321-895a-47e7-b126-409b5cc95c04)
+Visite a página do app: https://play.google.com/store/apps/details?id=com.minigestor_v01.app_minigestor&hl=pt_BR
+
+![Screenshot Google Play Store](https://github.com/user-attachments/assets/2355c4dc-4f7a-4f32-b848-798b6c9444d0)
 
 ### TCC Imobiliária (https://github.com/Vinicius-Silveira/IMOBICEF)
 **TCC - IMOBICEF** desenvolvido com **Dart/Flutter**. Esse projeto foi entregue ao Uni-FACEF como trabalho de conclusão de curso.
