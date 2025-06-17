@@ -5,8 +5,8 @@
 Estou focado em desenvolvimento mobile (Dart e Flutter) e desenvolvimento web (React.js, Next.js, Node.js, mongoose, Express.js e MongoDB).
 Meu portfólio online: https://vinicius-silveira.vercel.app
 
-- 🌱 Atualmente estudando: **Além de: https://github.com/Vinicius-Silveira/IMOBICEF, também estou estudando projetos pessoais.**
-- 🔭 Trabalhando no projeto: **App de gerenciamento de vendas, clientes e estoque de produtos**
+- 🌱 Atualmente estudando: Dart, Flutter e projetos pessoais.**
+- 🔭 Trabalhando no projeto: **MiniGestor - app de gerenciamento de vendas, clientes e estoque de produtos**
 - 🌍 Linguagens: **Inglês Avançado | Conhecimento acadêmico das tecnologias e linguagens JavaScript, NodeJS, TypeScript, ReactJS e Flutter. Bancos de Dados/SGBD's Oracle, PostgreSQL, SQL Server e MongoDB.**
 - :bulb: Certificado Oracle Academy "Programming with PL/SQL" 2022
 - 📫 Contato: **https://linkedin.com/in/vinicius-silveira-alvino**
@@ -26,16 +26,15 @@ Meu portfólio online: https://vinicius-silveira.vercel.app
 
 ## Projeto(s) em destaque 💻
 
+### O MiniGestor está na Play Store!
+App desenvolvido por mim, focado em gerenciar o estoque e a validade de produtos para autônomos e pequenos negócios.
+Visite a página do app:
+![Screenshot Google Play Store](https://github.com/user-attachments/assets/448bd321-895a-47e7-b126-409b5cc95c04)
+
 ### TCC Imobiliária (https://github.com/Vinicius-Silveira/IMOBICEF)
 **TCC - IMOBICEF** desenvolvido com **Dart/Flutter**. Esse projeto foi entregue ao Uni-FACEF como trabalho de conclusão de curso.
 
 ![Project 1 Screenshot](https://github.com/user-attachments/assets/1cead16c-d9a2-469e-8e11-7f1dce2dd5a6)
-
-### APP em construção!
-App sendo desenvolvido para auxiliar autônomos e pequenos empreendimentos. O propósito é facilitar o registro de vendas, gerenciar o estoque de produtos e oferecer relatórios.
-Mais novidades em breve!
-
-![print-telas-app-meu-negocio](https://github.com/user-attachments/assets/7a898622-5632-4f64-8313-b1106a766648)
 
 ## Contate-me 📬
 
